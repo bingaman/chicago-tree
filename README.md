@@ -9,6 +9,3 @@ tree removals
 
 plantings foia.csv
 tree plantings
-
-TODO:
-Add 2011 canopy cover geotiff from UTC 
